@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
 
-<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
+<h3 align="center">Egresada de Ingeniería de Sistemas</h3>
 <p align="center">
-  📍 Chiclayo, Perú | Universidad Señor de Sipán | 9.º ciclo
+  📍 Chiclayo, Perú | Universidad Señor de Sipán |Egresada
 </p>
 
 ---
