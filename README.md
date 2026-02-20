@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una estudiante apasionada por la tecnología, enfocada en el desarrollo de software con impacto social.  
+Soy una egresada de la carrera de ingenieria de sistemas,  apasionada por la tecnología, enfocada en el desarrollo de software con impacto social.  
 Me encanta resolver problemas reales con soluciones prácticas y accesibles.
 
 Actualmente trabajo en proyectos que combinan programación, diseño, inteligencia artificial y desarrollo móvil:
