@@ -4,16 +4,16 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
 
-<h3 align="center">Egresada de Ingeniería de Sistemas</h3>
+<h3 align="center">Ingeniera de Sistemas</h3>
 <p align="center">
-  📍 Chiclayo, Perú | Universidad Señor de Sipán |Egresada
+  📍 Chiclayo, Perú | Universidad Señor de Sipán |Egresada | Ingeniera 
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy una egresada de la carrera de ingenieria de sistemas,  apasionada por la tecnología, enfocada en el desarrollo de software con impacto social.  
+Soy ingeniera de sistemas,  apasionada por la tecnología, enfocada en el desarrollo de software con impacto social.  
 Me encanta resolver problemas reales con soluciones prácticas y accesibles.
 
 Actualmente trabajo en proyectos que combinan programación, diseño, inteligencia artificial y desarrollo móvil:
